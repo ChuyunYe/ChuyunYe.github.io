@@ -1,61 +1,51 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Chuyun Ye",
+    "email": "cyye.emily@gmail.com",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://chuyunye.github.io",
+    "summary": "Ph.D. student in Beijing Normal University. Plan to graduate in June 2025.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "Zhuhai",
+      "countryCode": "China",
       "region": ""
     },
     "profiles": [
       {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "http://orcid.org/yourorcidurl"
-      },
-      {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "ChuyunYe",
+        "url": "https://github.com/ChuyunYe"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "Beijing Normal University",
+      "area": "Ph.D in Statistics",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "startDate": "2019",
+      "endDate": "2025",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "University of Toronto",
+      "area": "Visiting Ph.D. student in statistics",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
+      "startDate": "2023",
+      "endDate": "2025",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
+      "institution": "Beijing Normal University",
+      "area": "B.S. in Statistics",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "startDate": "2015",
+      "endDate": "2019",
       "gpa": null,
       "courses": []
     }
@@ -66,77 +56,40 @@
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "http://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "Augmented inverse probability weighted estimation for conditional treatment effect",
+      "publisher": "Journal of Nonparametric Statistics",
+      "releaseDate": "2024-06-15",
+      "website": "https://www.tandfonline.com/doi/full/10.1080/10485252.2024.2377664?casa_token=_0ap9oQBSVEAAAAA%3AGy4XYPrB0XIZfmC-s9hAtMrLuBYAfL9F_7IZPtH_1UsXzb_3B08RCSXce47Vgref8TefZ0uMHZbo7w",
+      "summary": "Efficiency comparison among AIPW (Augmented Inverse Probability Weighted) estimators for CATE (Conditional Average Treatment Effect)."
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "http://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "Adaptive-to-sub-null testing for mediation effects in structural equation models",
+      "publisher": "Computational Statistics & Data Analysis",
+      "releaseDate": "2025-05-20",
+      "website": "https://www.sciencedirect.com/science/article/abs/pii/S0167947325000817",
+      "summary": "Mediation effect hypothesis testing"
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
+      "name": "Consistent Order Determination of Markov Decision Process",
+      "publisher": "",
+      "releaseDate": "",
+      "website": "https://arxiv.org/abs/2409.14684",
+      "summary": ""
     },
     {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "Doubly robust estimation of average treatment effect revisited",
+      "publisher": "",
+      "releaseDate": "",
+      "website": "https://arxiv.org/abs/2005.14508",
+      "summary": ""
     }
   ],
   "presentations": [
     {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
-  "teaching": [
-    {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
+      "name": "Consistent Order Determination of Markov Decision Process",
+      "event": "2025 ICSA China Conference",
+      "date": "2025-06-30",
+      "location": "Zhuhai, Guangdong, China",
       "description": ""
     }
   ],
