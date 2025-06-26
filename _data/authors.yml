@@ -1,18 +1,15 @@
 # Authors
 
 Name Name:
-  name        : "Name Name"
-  uri         : "http://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
+  name        : "Chuyun Ye"
+  uri         : "https://chuyunye.github.io"
+  email       : "cyye.emily@gmail.com"
+  bio         : "This is Chuyun Ye, a Ph.D. student of statistics in Beijing Normal University."
   avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
+
 
 Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
+  name        : "Chuyun Ye"
+  email       : "cyye.emily@gmail.com"
+  bio         : "This is Chuyun Ye, a Ph.D. student of statistics in Beijing Normal University."
   avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
