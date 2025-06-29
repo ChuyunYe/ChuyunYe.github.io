@@ -2,7 +2,7 @@
 title: "Augmented inverse probability weighted estimation for conditional treatment effect"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/AIPW_CATE
 excerpt: 'Efficiency comparison among different AIPW (Augmented Inverse Probability Weighted) estimators of CATE (Conditional Average Treatment Effect).'
 date: 2024
 venue: 'Journal of Nonparametric Statistics'
