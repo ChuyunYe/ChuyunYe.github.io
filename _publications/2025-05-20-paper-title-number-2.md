@@ -7,6 +7,7 @@ excerpt: 'Adaptively test the mediation effect in SEMs.'
 date: 2025-05-20
 venue: 'Computational Statistics & Data Analysis'
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0167947325000817'
+slidesurl:
 citation: Huang, J., Ye, C., & Zhu, L. (2025). Adaptive-to-sub-null testing for mediation effects in structural equation models. Computational Statistics & Data Analysis, 108205.
 ---
 
