@@ -1,7 +1,7 @@
 ---
 title: "Doubly robust estimation of average treatment effect revisited"
 collection: publications
-category: conferences
+category: manuscript
 permalink: /publication/2026-01-01-paper-title-number-4
 excerpt: 'Efficient comparison among AIPW estimators of ATE.'
 date: 2026-01-01
