@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/AIPW_CATE
 excerpt: 'Efficiency comparison among different AIPW (Augmented Inverse Probability Weighted) estimators of CATE (Conditional Average Treatment Effect).'
-date: 2024
+date: 2024-07-15
 venue: 'Journal of Nonparametric Statistics'
 paperurl: 'https://www.tandfonline.com/doi/full/10.1080/10485252.2024.2377664?casa_token=DeCfKLwOG5kAAAAA%3AS3pkZwJo4YeHmGoAYGcHM962jLJWKRXHyzaeiEKi0BwkI_O07oirGvoML24yWRxfdJr3co37W498tQ'
 ---
