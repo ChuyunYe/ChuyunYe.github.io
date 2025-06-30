@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student majoring in statistics at Beijing Normal University. My research interest mainly lies in **causal inference** and **precision medicine**. I stay curious about all related areas of statistics. I look forward to learning more about new things, especially machine learning and semiparametric theory. Always welcome comments and collaborations!
+I am a Ph.D. student in Statistics at Beijing Normal University. My research interests primarily lie in **causal inference** and **precision medicine**. I remain curious about all areas related to statistics and look forward to exploring new topics, especially machine learning and semiparametric theory. Always welcome comments and collaborations!
 
 *Photo credit to Ms. Mei Dong*
 
